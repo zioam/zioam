@@ -13,7 +13,9 @@ $ whoami
 zioam
 
 $ skills --list
-Full-Stack Web & Software Development - Game Dev - Robotics and Automation - Electronics
+Full-Stack Web & Software Development
+Game Dev - Robotics and Automation
+Electronics
 
 $ status
 Studying.
@@ -21,9 +23,10 @@ Studying.
 
 ## 👨‍💻 About Me
 ```txt
-I am Maximilian Mackena, Professional Technician in Electronics and Full-Stack Developer, 
-currently studying Systems Engineering at UTN-FRC. I am constantly expanding and learning, 
-exploring new technologies to grow both personally and professionally.
+I am Maximilian Mackena, Professional Technician in Electronics 
+and Full-Stack Developer, currently studying Systems Engineering 
+at UTN-FRC. I am constantly expanding and learning, exploring 
+new technologies to grow both personally and professionally.
 ```
 
 ## ⚙️ Tech Stack
