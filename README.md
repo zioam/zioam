@@ -1,6 +1,5 @@
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b0014,50:1a0033,100:12001f&height=200&section=header&text=ZIOAM&fontSize=80&fontColor=7a2fbf&animation=fadeIn&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a2e,50:2d1b4e,100:1f0d3a&height=200&section=header&text=ZIOAM&fontSize=80&fontColor=6a1f9f&fontAlignY=55&animation=fadeIn" />
 </p>
 
 <h2 align="center">
