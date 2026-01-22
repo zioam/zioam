@@ -1,9 +1,7 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=220&section=header&text=Welcome&fontSize=90&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a2e,50:2d1b4e,100:1f0d3a&height=220&section=header&text=ZIOAM&fontSize=80&fontColor=7a2fbf&animation=fadeIn" />
 </p>
-
-<h1 align="center">ZIOAM</h1>
 <h3 align="center">Senior Full-Stack Developer</h3>
 
 <p align="center">
@@ -61,7 +59,7 @@ I am constantly expanding and learning, exploring new technologies to grow both 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zioam&theme=radical&hide_border=true&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 </p>
 
 ## 🎯 Current Mission
@@ -72,5 +70,5 @@ Make a change.
 ```
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:7a2fbf,100:1a0033&height=120&section=footer" />
 </p>
