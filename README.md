@@ -1,11 +1,14 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a2e,50:2d1b4e,100:1f0d3a&height=220&section=header&text=ZIOAM&fontSize=80&fontColor=7a2fbf&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b0014,50:1a0033,100:12001f&height=200&section=header&text=ZIOAM&fontSize=80&fontColor=7a2fbf&animation=fadeIn&fontAlignY=55" />
 </p>
-<h3 align="center">Senior Full-Stack Developer</h3>
+
+<h2 align="center">
+<samp>Senior Full-Stack Developer</samp>
+</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Game+Developer;Electronics;Systems;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Electronics;Game+Development;Robotics+%26+Automation" />
 </p>
 
 ```bash
@@ -58,9 +61,7 @@ I am constantly expanding and learning, exploring new technologies to grow both 
 <img src="https://github-readme-stats.vercel.app/api?username=zioam&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" />
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
-</p>
+
 
 ## 🎯 Current Mission
 
