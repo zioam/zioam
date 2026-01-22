@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Electronics;Game+Development;Robotics+%26+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Electronic+Technician;Game+Developer;Robotics+%26+Automation" />
 </p>
 
 ```bash
