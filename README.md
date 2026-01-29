@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-<samp>Senior Full-Stack Developer</samp>
+<samp>Full-Stack Developer</samp>
 </h2>
 
 <p align="center">
