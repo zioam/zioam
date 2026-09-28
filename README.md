@@ -25,7 +25,7 @@ Studying.
 
 ## 👨‍💻 About Me
 
-I am Maximilian Mackena, Professional Technician in Electronics and Full-Stack Developer, currently studying Systems Engineering at UTN-FRC.  
+I am Maximilian, Professional Technician in Electronics and Full-Stack Developer, currently studying Systems Engineering.  
 I am constantly expanding and learning, exploring new technologies to grow both personally and professionally.
 
 ## ⚙️ Tech Stack
