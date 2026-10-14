@@ -48,6 +48,18 @@ I am constantly expanding and learning, exploring new technologies to grow both 
 ### 🛠️ Tools  
 `DBeaver` • `phpMyAdmin` • `Thonny`
 
+## 🚀 Featured Project
+
+### 🎵 Beatbot
+
+A rhythm-based game developed in Python.
+
+<p align="left">
+  <a href="https://youtu.be/33lXkIVXkuU">
+    <img src="https://img.shields.io/badge/▶_Watch_Beatbot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Beatbot on YouTube">
+  </a>
+</p>
+
 ## 🔗 Links
 
 - 💼 **Portfolio** → https://www.datovirtual.net.ar/ByteLogico/  
@@ -59,8 +71,6 @@ I am constantly expanding and learning, exploring new technologies to grow both 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zioam&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" />
 </p>
-
-
 
 ## 🎯 Current Mission
 
