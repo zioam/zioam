@@ -55,7 +55,7 @@ I am constantly expanding and learning, exploring new technologies to grow both 
 A rhythm-based game developed in Python.
 
 <p align="left">
-  <a href="https://youtu.be/33lXkIVXkuU=13m56s">
+  <a href="https://youtu.be/33lXkIVXkuU?t=13m56s">
     <img src="https://img.shields.io/badge/▶_Watch_Beatbot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Beatbot on YouTube">
   </a>
 </p>
